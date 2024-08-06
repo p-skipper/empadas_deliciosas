@@ -104,8 +104,8 @@ th {
 
 .team-block img {
     border-radius: 100%;
-    max-width: 130px;
-    max-height: 130px;
+    width: 130px;
+    height: 130px;
     margin-bottom: 20px;
 }
 
